@@ -5,7 +5,7 @@ from dictionaries import *
 
 windows = Tk()
 windows.geometry("300x300")
-windows.title("MEXICAN DICTIONARY")
+windows.title("WORLD DICTIONARY")
 
 
 entry_text = Entry(windows)
